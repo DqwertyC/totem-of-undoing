@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 9,
+        "description": "Adds functions and items that teleport the user to their last death point."
+    }
+}
